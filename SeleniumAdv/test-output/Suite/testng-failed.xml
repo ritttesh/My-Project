@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
+  <test name="chrome(failed)">
+    <classes>
+      <class name="Day1.Demo13">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Day1.Demo13 -->
+    </classes>
+  </test> <!-- chrome(failed) -->
+  <test name="chrome1(failed)">
+    <classes>
+      <class name="Day1.Demo13">
+        <methods>
+          <include name="f"/>
+        </methods>
+      </class> <!-- Day1.Demo13 -->
+    </classes>
+  </test> <!-- chrome1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

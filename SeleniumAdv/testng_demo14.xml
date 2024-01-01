@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="chrome">
+    <classes>
+      <class name="Day1.Demo13"/>
+    </classes>
+  </test> 
+   <test name="chrome1">
+    <classes>
+      <class name="Day1.Demo13"/>
+    </classes>
+  </test> 
+   <!-- Test -->
+</suite> <!-- Suite -->

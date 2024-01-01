@@ -1,0 +1,19 @@
+
+<suite name="suite">
+	<test name="Test">
+
+		<define name="ss">
+			<include name="regression" />
+		</define>
+		<groups>
+			<run>
+				<include name="ss" />
+				<exclude name="sanity" />
+			</run>
+		</groups>
+		<classes>
+			<class name="Day1.Demo9" />
+		</classes>
+	</test>
+
+</suite>

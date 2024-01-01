@@ -1,0 +1,19 @@
+<suite name="suite">
+	<test name="test">
+		<parameter name="browser" value="chrome" />
+		<parameter name="url"
+			value="http://10.82.180.36/Common/Login.aspx" />
+		<classes>
+			<class name="Day1.Demo6" />
+		</classes>
+	</test>
+	<test name="test1">
+		<parameter name="browser" value="edge" />
+		<parameter name="url"
+			value="http://10.82.180.36/Common/Login.aspx" />
+		<classes>
+			<class name="Day1.Demo6" />
+		</classes>
+	</test>
+
+</suite>
